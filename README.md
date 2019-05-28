@@ -43,7 +43,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/agrezo/nodejs-api-starter-passport.git myproject
+git clone https://github.com/vinigg2/thechecker-api myproject
 
 # Change directory
 cd myproject
