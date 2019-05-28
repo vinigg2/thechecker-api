@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-api-starter-passport",
+  "version": "1.0.0",
+  "description": "A boilerplate for Node.js API starter using Express, Passport and MongoDB",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agrezo/nodejs-api-starter.git"
+  },
+  "author": "Vinícius Pereira",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
+    "connect-mongo": "^2.0.1",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "mongoose": "^5.3.3",
+    "nodemailer": "^4.6.8",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
